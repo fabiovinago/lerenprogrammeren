@@ -5,7 +5,7 @@ printen.
 
 let getal1 = 5;
 
-for(getal1;getal1<=50;getal1+=5){
+for(getal1;getal1<=50;getal1+=5){ //kan ook geschreven worden als getal1=getal1+5
     console.log(getal1)
 }
 
