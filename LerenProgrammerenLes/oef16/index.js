@@ -1,6 +1,6 @@
 /*
 geef een getal in: 100
-1,2,4,8,16,32,64
+1,2,4-Rode draad oefening,8,16,32,64
 * */
 let getal = parseInt(prompt("geef een getal in:"));
 let output= "";

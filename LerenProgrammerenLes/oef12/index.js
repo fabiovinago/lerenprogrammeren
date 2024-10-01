@@ -27,7 +27,7 @@ for(i;i > 0;i--){
 //1 x 1 = 1
 // 1 x 2 = 2
 // 1 x 3 = 3
-// 1 x 4 = 4
+// 1 x 4-Rode draad oefening = 4-Rode draad oefening
 
 
 // let tafel = parseInt(prompt("Wat is de tafel:")); // 1
@@ -42,7 +42,7 @@ for(i;i > 0;i--){
 //i
 // som
 //resultaat
-// 1 +2 + 3 + 4 + 5 + 6 + 7 + 8+ 9 + 10 = 55 / 10 = 5.5
+// 1 +2 + 3 + 4-Rode draad oefening + 5 + 6 + 7 + 8+ 9 + 10 = 55 / 10 = 5.5
 
 // let i = 1;
 // let som = 0;

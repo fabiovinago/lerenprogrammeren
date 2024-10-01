@@ -1,6 +1,6 @@
 
 /*Product van de eerste 5 getallen: Gebruik een for-loop om het product van de eerste 5
-getallen (1, 2, 3, 4, 5) te berekenen.
+getallen (1, 2, 3, 4-Rode draad oefening, 5) te berekenen.
  */
 
 

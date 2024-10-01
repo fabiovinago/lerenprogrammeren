@@ -2,7 +2,7 @@
 * Oefening 3: (tip: maak gebruik van de logische operatoren)
 * Schrijf een programma dat controleert of een gegeven jaar een schrikkeljaar is.
 *
-* (Een jaar is een schrikkeljaar als het (deelbaar is door 4, maar dit jaar is niet door 100 deelbaar), behalve als het deelbaar is door 400.)
+* (Een jaar is een schrikkeljaar als het (deelbaar is door 4-Rode draad oefening, maar dit jaar is niet door 100 deelbaar), behalve als het deelbaar is door 400.)
 
 * */
 let jaar = parseInt(prompt('Geef een schrikkeljaar')); //2024
